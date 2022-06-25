@@ -14,4 +14,10 @@ export default {};
   padding: 0;
   box-sizing: border-box;
 }
+.title {
+  margin-bottom: 50px;
+  text-align: center;
+  color: #ffffff;
+  font-size: 50px;
+}
 </style>
